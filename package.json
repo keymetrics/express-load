@@ -1,5 +1,5 @@
 {
-  "name": "@keymetrics/express-load",
+  "name": "km-express-load",
   "description": "Autoload modules into an Express application instance, config, models, routes, controllers etc...",
   "version": "1.2.0",
   "author": {
