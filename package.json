@@ -1,7 +1,7 @@
 {
-  "name": "express-load",
+  "name": "@keymetrics/express-load",
   "description": "Autoload modules into an Express application instance, config, models, routes, controllers etc...",
-  "version": "1.1.16",
+  "version": "1.2.0",
   "author": {
     "name": "Jarrad Seers",
     "email": "jarrad@jarradseers.com"
@@ -31,5 +31,5 @@
      "express": "3.x"
   },
   "engines": { "node": "*" },
-  "repository": "git://github.com/jarradseers/express-load"
+  "repository": "git://github.com/keymetrics/express-load"
 }
